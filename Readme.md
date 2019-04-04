@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainWindow.xaml](./CS/DXPivotGrid_CustomFilterItemsSorting/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/DXPivotGrid_CustomFilterItemsSorting/MainWindow.xaml.vb))
+* [MainWindow.xaml](./CS/DXPivotGrid_CustomFilterItemsSorting/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/DXPivotGrid_CustomFilterItemsSorting/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/DXPivotGrid_CustomFilterItemsSorting/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/DXPivotGrid_CustomFilterItemsSorting/MainWindow.xaml.vb))
 <!-- default file list end -->
 # How to sort filter drop-down items in a custom manner
